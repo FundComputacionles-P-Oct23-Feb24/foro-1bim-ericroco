@@ -1,0 +1,13 @@
+1.Inicio
+2.num, i[0-n]
+3.contador. i[0-n]
+4.<<"Ingrese porfavor un numero"
+5.>>num
+6.Para (contador <-- 1, contador <= num, 1) haga
+7.	Si (contador % 2 == 0) entonces
+8.		<<"El numero es par"
+9.	De lo contrario
+10.		<<"El numero es impar"
+11.	Fin Si
+12.Fin Para
+13.Fin
